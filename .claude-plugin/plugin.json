@@ -8,7 +8,19 @@
 		"url": "https://lyghtbox.com"
 	},
 	"homepage": "https://lyghtbox.com",
+	"documentationUrl": "https://lyghtbox.com/docs/chatgpt-and-claude",
 	"privacyPolicyUrl": "https://lyghtbox.com/privacy-policy",
+	"keywords": [
+		"photography",
+		"videography",
+		"crm",
+		"clients",
+		"projects",
+		"bookings",
+		"booking-pages",
+		"email-campaigns",
+		"import"
+	],
 	"icon": "./assets/logo.png",
 	"license": "Proprietary"
 }
