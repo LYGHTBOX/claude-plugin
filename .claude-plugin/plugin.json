@@ -1,0 +1,12 @@
+{
+	"name": "lyghtbox",
+	"displayName": "LYGHTBOX",
+	"version": "0.1.0",
+	"description": "Look up clients, projects and bookings in your LYGHTBOX studio, keep them up to date, prepare emails, campaigns and booking pages to review, and move your clients and projects over from another platform.",
+	"author": {
+		"name": "LYGHTBOX",
+		"url": "https://lyghtbox.com"
+	},
+	"homepage": "https://lyghtbox.com",
+	"license": "Proprietary"
+}

@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"lyghtbox": {
+			"type": "http",
+			"url": "https://agents.lyghtbox.com/mcp"
+		}
+	}
+}
