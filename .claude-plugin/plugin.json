@@ -8,5 +8,7 @@
 		"url": "https://lyghtbox.com"
 	},
 	"homepage": "https://lyghtbox.com",
+	"privacyPolicyUrl": "https://lyghtbox.com/privacy-policy",
+	"icon": "./assets/logo.png",
 	"license": "Proprietary"
 }
